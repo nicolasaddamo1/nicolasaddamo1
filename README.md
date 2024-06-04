@@ -16,7 +16,7 @@ I am a passionate developer, who loves technology and programming. Here's a litt
 
 ## 🛠️ Tecnologías y Herramientas
 
-- Lenguajes: [lenguajes que usas]
+- Languages: [![Typescrtip Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)]
 - Frameworks: [frameworks que usas]
 - Herramientas: [herramientas que usas]
 
