@@ -24,7 +24,7 @@ I am a passionate developer, who loves technology and programming. Here's a litt
     .BackEnd:![Nestjs Badge](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)![Express Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
     .FrontEnd[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) ![Tailwind Badge](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss) ![React Badge](https://camo.githubusercontent.com/97458bf821a253c5b545eaaf3ed4dfd88bd058d4152f2405cc2f8d363285e1ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-- Herramientas: 
+- Tools: 
 
 ## 📈 Estadísticas de GitHub
 
