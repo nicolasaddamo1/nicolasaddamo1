@@ -16,7 +16,8 @@ I am a passionate developer, who loves technology and programming. Here's a litt
 
 ## 🛠️ Tecnologías y Herramientas
 
-- Languages: ![Typescrtip Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![Javascript Badge](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+- Languages:
+         ![Typescrtip Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![Javascript Badge](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![Python Badge]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI))  ![C++ badge](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 - Frameworks: [frameworks que usas]
 - Herramientas: [herramientas que usas]
 
