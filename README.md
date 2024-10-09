@@ -4,7 +4,7 @@ I am a passionate developer who loves technology and programming. Here's a littl
 
 ## 🚀 About Me
 
-- 🌱 Currently learning backend fundamentals And Salesforce [![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white).
+- 🌱 Currently learning backend fundamentals And Salesforce [![Salesforce Badge]([https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white](https://img.shields.io/badge/Salesforce-blue?logo=salesforce))
 - 👯 Looking to collaborate on real projects to enhance my skills.
 - 💬 Feel free to ask me about TypeORM, SQL, NestJS, TypeScript, and ECMAScript.
 - 📫 Reach me at:
